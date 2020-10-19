@@ -1,5 +1,4 @@
-# dsbra
-Double Strand Break Analysis Program
+# DSBRA - A High-Throughput Pipeline for Analyzing DNA Repair Fingerprints Following Double-Strand Break Repair
 
 Analyze .fastq files for insertions, deletions, and microhomologous end joining at specified break site within reference sequence.
 
